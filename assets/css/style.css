@@ -1,0 +1,64 @@
+html {
+  scroll-behavior: smooth;
+}
+header {
+  width: 100%;
+}
+.body{
+  max-width: 100%;
+} 
+.titulo1{
+  text-align: center;
+  color: white;
+  padding-top: 40px;
+  padding-bottom: 0px;
+}
+.card-body{
+  background-color:rgb(35, 147, 182);
+  color: white;
+  height: auto;
+  border-color: black;
+  }
+.card-body1{
+  height: auto;
+  background-color: black;
+   color: white;
+}
+.card-img-top{
+  height: 7rem;
+}
+.iconosolo{
+  background-color:rgb(35, 147, 182);
+  height: 2rem;
+}
+#elicono{
+  font-size: x-large;
+}
+.formlabel{
+  color: white;
+}
+.formulario1{
+  color: white;
+}
+.navbar2{
+  background-color: rgb(35, 147, 182) ;
+  height: 4rem;
+  color: white;
+
+}
+.navbar-brand{
+  margin-left: 10%;
+}
+.logosrrss{
+  margin-right: auto;
+}
+.rrss{
+  color: white;
+}
+#logosredes{
+  margin: auto;
+}
+#enviar{
+  background-color: aqua;
+  color: white;
+}
