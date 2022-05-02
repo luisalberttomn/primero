@@ -6,6 +6,6 @@ $(function () {
   $(document).ready(function() {
     $('[data-toggle="tooltip"]').tooltip();
     });
-    $('#Enviar').oneclick(function() {
+    $('#Enviar').click(function() {
       alert("El formulario fue enviado correctamente");
       })
